@@ -4,5 +4,21 @@
     "name": "Sample Template",
     "previewUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sample-template.png",
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sample-card.json"
+  },
+
+   {
+    "id": "doodle-welcome",
+    "name": "Doodle Welcome Sign",
+    "category":"doodle",
+    "previewUrl": "doodle-welcome.png",
+    "jsonUrl": "doodle-welcome.json"
+  }, 
+
+     {
+    "id": "animated-supplies-welcome",
+    "name": "Animated Supplies Welcome",
+    "category": "animated",
+    "previewUrl": "animated-supplies-welcome.png",
+    "jsonUrl": "animated-supplies-welcome.json"
   }
 ]
