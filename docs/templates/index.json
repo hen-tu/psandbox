@@ -9,7 +9,6 @@
    {
     "id": "doodle-welcome",
     "name": "Doodle Welcome Sign",
-    "category":"doodle",
     "previewUrl": "doodle-welcome.png",
     "jsonUrl": "doodle-welcome.json"
   }, 
@@ -17,7 +16,6 @@
      {
     "id": "animated-supplies-welcome",
     "name": "Animated Supplies Welcome",
-    "category": "animated",
     "previewUrl": "animated-supplies-welcome.png",
     "jsonUrl": "animated-supplies-welcome.json"
   }
