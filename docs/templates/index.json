@@ -6,17 +6,17 @@
     "jsonUrl": "https://hen-tu.github.io/polotno-assets-cf/templates/sample-card.json"
   },
 
-   {
     "id": "doodle-welcome",
     "name": "Doodle Welcome Sign",
-    "previewUrl": "doodle-welcome.png",
-    "jsonUrl": "doodle-welcome.json"
-  }, 
-
-     {
+    "category": "doodle",
+    "previewUrl": "https://hen-tu.github.io/psandbox/templates/doodle-welcome.png",
+    "jsonUrl": "https://hen-tu.github.io/psandbox/templates/doodle-welcome.json"
+  },
+  {
     "id": "animated-supplies-welcome",
     "name": "Animated Supplies Welcome",
-    "previewUrl": "animated-supplies-welcome.png",
-    "jsonUrl": "animated-supplies-welcome.json"
+    "category": "animated",
+    "previewUrl": "https://hen-tu.github.io/psandbox/templates/animated-supplies-welcome.png",
+    "jsonUrl": "https://hen-tu.github.io/psandbox/templates/animated-supplies-welcome.json"
   }
 ]
