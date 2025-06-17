@@ -8,14 +8,14 @@
 {
     "id": "doodle-welcome",
     "name": "Doodle Welcome Sign",
-    "category": "doodle",
+    "category": "welcome",
     "previewUrl": "https://hen-tu.github.io/psandbox/templates/doodle-welcome.png",
     "jsonUrl": "https://hen-tu.github.io/psandbox/templates/doodle-welcome.json"
   },
   {
     "id": "animated-supplies-welcome",
     "name": "Animated Supplies Welcome",
-    "category": "animated",
+    "category": "welcome",
     "previewUrl": "https://hen-tu.github.io/psandbox/templates/animated-supplies-welcome.png",
     "jsonUrl": "https://hen-tu.github.io/psandbox/templates/animated-supplies-welcome.json"
   }
